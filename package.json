@@ -1,18 +1,18 @@
 {
-  "name": "utility-scripts",
-  "version": "1.0.0",
-  "description": "Javascript / Typescript utility scripts",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fattynomnom/utility-scripts.git"
-  },
-  "author": "Madeleine Tee",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fattynomnom/utility-scripts/issues"
-  },
-  "homepage": "https://github.com/fattynomnom/utility-scripts#readme",
-  "devDependencies": {
-    "prettier": "^3.8.1"
-  }
+    "name": "utility-scripts",
+    "version": "1.0.0",
+    "description": "Javascript utility scripts",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fattynomnom/utility-scripts.git"
+    },
+    "author": "Madeleine Tee",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/fattynomnom/utility-scripts/issues"
+    },
+    "homepage": "https://github.com/fattynomnom/utility-scripts#readme",
+    "devDependencies": {
+        "prettier": "^3.8.1"
+    }
 }
